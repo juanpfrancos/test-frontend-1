@@ -1,6 +1,7 @@
 function Almacen() {  
     return (
       <div>
+        Almacen
       </div>
     );
   }
